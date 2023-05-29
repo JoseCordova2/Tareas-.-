@@ -1,0 +1,16 @@
+C:\Users\cordo\OneDrive\Escritorio\tareatotal\tareatotal\bin\Debug\net5.0\tareatotal.exe
+C:\Users\cordo\OneDrive\Escritorio\tareatotal\tareatotal\bin\Debug\net5.0\tareatotal.deps.json
+C:\Users\cordo\OneDrive\Escritorio\tareatotal\tareatotal\bin\Debug\net5.0\tareatotal.runtimeconfig.json
+C:\Users\cordo\OneDrive\Escritorio\tareatotal\tareatotal\bin\Debug\net5.0\tareatotal.runtimeconfig.dev.json
+C:\Users\cordo\OneDrive\Escritorio\tareatotal\tareatotal\bin\Debug\net5.0\tareatotal.dll
+C:\Users\cordo\OneDrive\Escritorio\tareatotal\tareatotal\bin\Debug\net5.0\tareatotal.pdb
+C:\Users\cordo\OneDrive\Escritorio\tareatotal\tareatotal\obj\Debug\net5.0\tareatotal.csproj.AssemblyReference.cache
+C:\Users\cordo\OneDrive\Escritorio\tareatotal\tareatotal\obj\Debug\net5.0\tareatotal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cordo\OneDrive\Escritorio\tareatotal\tareatotal\obj\Debug\net5.0\tareatotal.AssemblyInfoInputs.cache
+C:\Users\cordo\OneDrive\Escritorio\tareatotal\tareatotal\obj\Debug\net5.0\tareatotal.AssemblyInfo.cs
+C:\Users\cordo\OneDrive\Escritorio\tareatotal\tareatotal\obj\Debug\net5.0\tareatotal.csproj.CoreCompileInputs.cache
+C:\Users\cordo\OneDrive\Escritorio\tareatotal\tareatotal\obj\Debug\net5.0\tareatotal.dll
+C:\Users\cordo\OneDrive\Escritorio\tareatotal\tareatotal\obj\Debug\net5.0\refint\tareatotal.dll
+C:\Users\cordo\OneDrive\Escritorio\tareatotal\tareatotal\obj\Debug\net5.0\tareatotal.pdb
+C:\Users\cordo\OneDrive\Escritorio\tareatotal\tareatotal\obj\Debug\net5.0\tareatotal.genruntimeconfig.cache
+C:\Users\cordo\OneDrive\Escritorio\tareatotal\tareatotal\obj\Debug\net5.0\ref\tareatotal.dll
